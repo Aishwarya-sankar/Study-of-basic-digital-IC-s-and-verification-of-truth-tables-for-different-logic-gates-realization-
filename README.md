@@ -76,9 +76,10 @@ nor(y6,a,b);
 xnor(y7,a,b);
 endmodule
 */
-```
+
 Logic symbol & Truthtable
 RTL realization
+```
 Output:
 RTL
 ![2023-04-16](https://user-images.githubusercontent.com/121418444/232279613-6b11ab33-50f7-4bdd-8f1c-ec25aa5dc889.png)
